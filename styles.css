@@ -206,6 +206,7 @@ footer {
   .line {
     border-right: 4px solid #605e5e;
     height: 35px;
+    border-bottom: none;
   }
   .stay-tuned form {
     width: 75%;
